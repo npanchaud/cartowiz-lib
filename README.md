@@ -50,6 +50,8 @@ A framework that support formalization of cartographic knowledge into cartograph
 -   [callOriginalStyle](#calloriginalstyle)
 -   [applyOriginalStyle](#applyoriginalstyle)
 
+Made with [http://documentation.js.org|documentation.js]
+
 ## changeToGrayscale
 
 Turn the color scheme into a GRAYSCALE
