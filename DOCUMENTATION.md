@@ -1,5 +1,7 @@
 # DOCUMENTATION
 
+made with documentation.js
+
 ### Table of Contents
 
 -   [changeToGrayscale](#changetograyscale)
@@ -37,7 +39,6 @@
 -   [applyBGMethod](#applybgmethod)
 -   [dealWithOpacity](#dealwithopacity)
 -   [callSmartBG](#callsmartbg)
--   [calculateFillStrokeContrast](#calculatefillstrokecontrast)
 -   [callGrayscaleBG](#callgrayscalebg)
 -   [callLessSaturated](#calllesssaturated)
 -   [callLessOpacity](#calllessopacity)
@@ -365,15 +366,6 @@ Call the function to apply the smart BG for each layer in the abckground
 -   `rasterTransparency` **[boolean](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean)** whether we need transparency to adapt to a raster background
 
 Returns **\[type]** [description]
-
-## calculateFillStrokeContrast
-
-TO DO : test if it works
-Test if stroke and fill available, calculate contrast and add to the style info
-
-**Parameters**
-
--   `index` **[number](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)** index of the layer being analyzed
 
 ## callGrayscaleBG
 
