@@ -1,6 +1,6 @@
 # DOCUMENTATION
 
-made with documentation.js
+made with [documentation.js](http://documentation.js.org)
 
 ### Table of Contents
 
