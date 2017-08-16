@@ -347,9 +347,7 @@ Asses the mehtod chosen and call the nmethod function
 
 **Parameters**
 
--   `grId` **[string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)** ID of the group in which the button is
--   `evt` **[object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)** event that call teh callback function
--   `text` **[string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)** text on the button
+-   `method` **[string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)** which method to apply
 
 ## dealWithOpacity
 
